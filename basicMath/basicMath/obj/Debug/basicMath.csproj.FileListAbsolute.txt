@@ -1,0 +1,2 @@
+C:\Users\DELL\source\repos\basicMath\basicMath\obj\Debug\basicMath.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\basicMath\basicMath\obj\Debug\basicMath.csproj.CoreCompileInputs.cache
